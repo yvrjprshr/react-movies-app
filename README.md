@@ -2,9 +2,9 @@
 
     Responsive React Movies App With API
 
-# watch live site 
+# Watch Live Site 
 
-:eyes: [Link](https://yuvraj-movies-app.netlify.app/)
+:eyes: [click here](https://yuvraj-movies-app.netlify.app/)
 
 # Resource
 
