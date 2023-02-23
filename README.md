@@ -2,6 +2,10 @@
 
     Responsive React Movies App With API
 
+# watch live site 
+
+    [Link](https://yuvraj-movies-app.netlify.app/)
+    
 # Resource
 
     Google font: https://fonts.google.com/
